@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elieser Santiesteban Frutos</h1>
-<h3 align="center">Backend developer from Cuba</h3>
+<h3 align="center">Backend developer</h3>
 
 - 🔭 I’m currently working on **TECOPAY Payment System**
 
