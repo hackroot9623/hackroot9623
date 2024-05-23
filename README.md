@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,latex,md,obsidian,matlab,octave,py,anaconda,bash,blender,docker,mongodb,mysql,postgres,sequelize,prisma,redis,ts,js,nodejs,express,nestjs,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,latex,md,obsidian,matlab,octave,py,anaconda" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackroot9623&show_icons=true&locale=en&layout=compact" alt="hackroot9623" /></p>
