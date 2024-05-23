@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Elieser Santiesteban Frutos</h1>
-<h3 align="center">Backend developer</h3>
-
-- 🔭 I’m currently working on **TECOPAY Payment System**
+<h1 align="center">
+    Hello, I'm Elieser Santiesteban Frutos
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+<p align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=Backend+Dev+%7C+NodeJs+;Typescript+%7C+Linux+Dev+;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 - 🌱 I’m currently learning **Python, NodeJS, Typescript, Sequelize, Databases.**
 
@@ -15,9 +18,7 @@
 <a href="https://linkedin.com/in/elieser-santiesteban-frutos-a3608318a}{linkedin.com/in/elieser-santiesteban-frutos-a3608318a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elieser-santiesteban-frutos-a3608318a}{linkedin.com/in/elieser-santiesteban-frutos-a3608318a" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=arch, debian, latex, md, obsidian, matlab, octave, py, anaconda, bash, blender, cpp, docker, mongodb, mysql, postgres, sequelize, prisma, redis, ts, js, nodejs, express, nestjs, firebase, git, github&perline=3)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackroot9623&show_icons=true&locale=en&layout=compact" alt="hackroot9623" /></p>
 
