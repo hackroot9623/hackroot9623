@@ -21,8 +21,7 @@
 </div >
 <div align="center">
 <h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
-  <img src="https://skillicons.dev/icons?i=arch, debian, latex, md, obsidian, matlab, octave, py, anaconda, bash, blender, docker,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb, mysql, postgres, sequelize, prisma, redis, ts, js, nodejs, express, nestjs, git, github" />
+  <img src="https://skillicons.dev/icons?i=arch, debian, latex, md, obsidian, matlab, octave, py, anaconda, bash, blender, docker,firebase, mongodb, mysql, postgres, sequelize, prisma, redis, ts, js, nodejs, express, nestjs, git, github&perline=3" /><br>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackroot9623&show_icons=true&locale=en&layout=compact" alt="hackroot9623" /></p>
