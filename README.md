@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/elieser-santiesteban-frutos-a3608318a}{linkedin.com/in/elieser-santiesteban-frutos-a3608318a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elieser-santiesteban-frutos-a3608318a}{linkedin.com/in/elieser-santiesteban-frutos-a3608318a" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=arch, debian, latex, md, obsidian, matlab, octave, py, anaconda, bash, blender, cpp, docker, mongodb, mysql, postgres, sequelize, prisma, redis, ts, js, nodejs, express, nestjs, firebase, git, github&perline=3)](https://skillicons.dev)
+<img align="center" src="https://skillicons.dev/icons?i=arch, debian, latex, md, obsidian, matlab, octave, py, anaconda, bash, blender, cpp, docker, mongodb, mysql, postgres, sequelize, prisma, redis, ts, js, nodejs, express, nestjs, firebase, git, github&perline=3"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackroot9623&show_icons=true&locale=en&layout=compact" alt="hackroot9623" /></p>
 
