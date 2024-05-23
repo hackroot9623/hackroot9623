@@ -21,6 +21,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,debian,latex,md,obsidian,matlab,octave,py,anaconda" />
+    <img src="https://skillicons.dev/icons?i=bash,blender,docker,mongodb,mysql,postgres,sequelize,prisma,redis" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackroot9623&show_icons=true&locale=en&layout=compact" alt="hackroot9623" /></p>
