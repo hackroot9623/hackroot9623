@@ -15,8 +15,8 @@
 <h3>Tech Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,debian,aws,latex,md,obsidian,matlab,octave,py,anaconda" /></br>
-    <img src="https://skillicons.dev/icons?i=bash,blender,docker,mongodb,mysql,postgres,sequelize,prisma,redis" /></br>
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,aws,bash,,docker,mongodb,mysql,postgres,sequelize,prisma,redis" /></br>
+    <img src="https://skillicons.dev/icons?i=matlab,octave,py,anaconda,latex,md,obsidian,blender" /></br>
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,firebase,npm,git,gitlab,github,postman,webstorm" />
   </a>
 </p>
