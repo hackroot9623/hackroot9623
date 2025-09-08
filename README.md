@@ -2,9 +2,7 @@
     Hello, I'm Elieser Santiesteban Frutos
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-<p align="center">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&random=false&width=435&lines=Backend+Dev+%7C+NodeJs+;Typescript+%7C+Linux+Dev+;Tech+Enthusiast" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Physicist;Backend+developer;Node-Nest.js;Linux+Dev;Obsidian+Fanatic;Devops+Apprentice" alt="Typing SVG" /></a>
 
 ---
 
