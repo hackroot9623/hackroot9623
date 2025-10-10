@@ -21,7 +21,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,debian,aws,bash,docker,mongodb,mysql,postgres,sequelize,prisma,redis" /></br>
     <img src="https://skillicons.dev/icons?i=matlab,octave,py,anaconda,latex,md,obsidian,postman,webstorm,blender" /></br>
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,firebase,jest,npm,git,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,gitlab,github" />
   </a>
 </p>
 <p>
