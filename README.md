@@ -17,8 +17,7 @@
 
 ---
 ### 🛠️ Tech Stack
-<p align="center"> <a href="https://skillicons.dev"> <!-- Backend & Infrastructure --> <img src="https://skillicons.dev/icons?i=linux,arch,debian,aws,heroku,cloudflare,mongodb,mysql,postgres,elasticsearch,redis,sequelize,prisma,docker" /></br> <!-- Programming Languages & Tools --> <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,octave,anaconda,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Libraries & Dev Platforms --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,github,gitlab" /> </a> </p><p align="center"> <a href="https://skillicons.dev"> <!-- Backend & Infrastructure --> <img src="https://skillicons.dev/icons?i=linux,arch,debian,aws,heroku,cloudflare,mongodb,mysql,postgres,elasticsearch,redis,sequelize,prisma,docker" /></br> <!-- Programming Languages & Tools --> <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,octave,anaconda,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Libraries & Dev Platforms --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,github,gitlab" /> </a> </p>
-
+<p align="center"> <a href="https://skillicons.dev"> <!-- Backend, Databases & Infrastructure --> <img src="https://skillicons.dev/icons?i=aws,heroku,cloudflare,docker,mongodb,postgres,mysql,elasticsearch,redis,prisma,sequelize,linux,arch,debian" /></br> <!-- Programming Languages, Scientific & Tools --> <img src="https://skillicons.dev/icons?i=py,anaconda,matlab,octave,c,cpp,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Runtimes & Version Control --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,github,gitlab" /> </a> </p> <p>
 ### 🌐 Connect with Me
 <p align="left">
 <p align="left">
