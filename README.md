@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,debian,aws,bash,docker,mongodb,mysql,postgres,elasticsearch,sequelize,prisma,redis" /></br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,octave,py,anaconda,latex,md,obsidian,postman,webstorm,blender" /></br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,matlab,octave,py,anaconda,latex,md,obsidian,postman,neovim,webstorm,blender" /></br>
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,gitlab,github" />
   </a>
 </p>
