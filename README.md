@@ -5,7 +5,6 @@
  <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Physicist;Backend+developer;Node-Nest.js;Linux+Dev;Obsidian+Fanatic;Devops+Apprentice" alt="Typing SVG" /></a>
  </p>
----
 
 ### 🚀 About Me
 
@@ -15,9 +14,9 @@
 - 💬 Ask me about: **Physics**, **Linux**, **Tech Trends**
 - 📫 Reach me at: **elieser.santiesteban.1996@gmail.com**
 
----
 ### 🛠️ Tech Stack
 <p align="center"> <a href="https://skillicons.dev"> <!-- Backend, Databases & Infrastructure --> <img src="https://skillicons.dev/icons?i=aws,heroku,cloudflare,docker,mongodb,postgres,mysql,elasticsearch,redis,prisma,sequelize,linux,arch,debian" /></br> <!-- Programming Languages, Scientific & Tools --> <img src="https://skillicons.dev/icons?i=py,anaconda,matlab,octave,c,cpp,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Runtimes & Version Control --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,github,gitlab" /> </a> </p> <p>
+
 ### 🌐 Connect with Me
 <p align="left">
 <p align="left">
