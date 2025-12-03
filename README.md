@@ -20,10 +20,10 @@
 ### 🌐 Connect with Me
 <p align="left">
 <p align="left">
-  <a href="https://twitter.com/hackroot231" target="_blank">
+  <a href="https://twitter.com/hackroot231" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackroot231" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/elieser-santiesteban-frutos-a3608318a" target="_blank">
+  <a href="https://linkedin.com/in/elieser-santiesteban-frutos-a3608318a" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
