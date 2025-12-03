@@ -18,7 +18,7 @@
 <p align="center"> <a href="https://skillicons.dev"> <!-- Backend, Databases & Infrastructure --> <img src="https://skillicons.dev/icons?i=aws,heroku,cloudflare,docker,mongodb,postgres,mysql,elasticsearch,redis,prisma,sequelize,linux,arch,debian" /></br> <!-- Programming Languages, Scientific & Tools --> <img src="https://skillicons.dev/icons?i=py,anaconda,matlab,octave,c,cpp,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Runtimes & Version Control --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,firebase,jest,npm,git,github,gitlab" /> </a> </p> <p>
 
 ### 🌐 Connect with Me
-<p align="left">
+
 <p align="left">
   <a href="https://twitter.com/hackroot231" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hackroot231" height="30" width="40" />
