@@ -15,7 +15,7 @@
 - 📫 Reach me at: **elieser.santiesteban.1996@gmail.com**
 
 ### 🛠️ Tech Stack
-<p align="center"> <a href="https://skillicons.dev"> <!-- Backend, Databases & Infrastructure --> <img src="https://skillicons.dev/icons?i=aws,heroku,cloudflare,docker,mongodb,postgres,mysql,elasticsearch,redis,prisma,sequelize,linux,arch,debian" /></br> <!-- Programming Languages, Scientific & Tools --> <img src="https://skillicons.dev/icons?i=py,anaconda,matlab,octave,c,cpp,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Runtimes & Version Control --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,django,grafana,terraform,firebase,jest,npm,git,github,gitlab" /> </a> </p> <p>
+<p align="center"> <a href="https://skillicons.dev"> <!-- Backend, Databases & Infrastructure --> <img src="https://skillicons.dev/icons?i=aws,heroku,cloudflare,docker,mongodb,postgres,mysql,elasticsearch,redis,prisma,sequelize,nginx,linux,arch,debian" /></br> <!-- Programming Languages, Scientific & Tools --> <img src="https://skillicons.dev/icons?i=py,anaconda,matlab,octave,c,cpp,bash,latex,md,obsidian,postman,neovim,webstorm,blender" /></br> <!-- Frameworks, Runtimes & Version Control --> <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,qt,django,grafana,terraform,firebase,jest,npm,git,github,gitlab" /> </a> </p> <p>
 
 ### 🌐 Connect with Me
 
